@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-#Hello, world 
+<h1>Hello, world</h1> 
 ```
 My name is Andrew Valentine. I fix computers. I also do other things on the internet. This webpage is for links to those things.
 ```  
