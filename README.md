@@ -14,6 +14,7 @@ This webpage is for links to those things.
   <a href="https://github.com/andrewvalentine">GitHub</a> |
   <a href="https://instagram.com/andrewvalentine">Instagram</a> |
   <a href="https://sayhitofoxes.bandcamp.com/">bandcamp</a> |
-  <a href="mailto:andrew@defaultswrite.com">Mail</a>
+  <a href="mailto:andrew@defaultswrite.com">Mail</a> |
+  <a href="http://andrewvalentine.co/CV">CV</a>
   <br><br>
 </p>
