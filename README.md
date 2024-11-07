@@ -9,12 +9,12 @@ This webpage is for links to those things.
 
 <p align="center">
   <b>Me, online:</b><br>
-  <a href="https://defaultswrite.co">Blog</a> |
-  <a href="https://twitter.com/andrewvalentine">Twitter</a> |
-  <a href="https://github.com/andrewvalentine">GitHub</a> |
-  <a href="https://instagram.com/andrewvalentine">Instagram</a> |
-  <a href="https://sayhitofoxes.bandcamp.com/">bandcamp</a> |
-  <a href="mailto:andrew@defaultswrite.com">Mail</a> |
+  <a href="https://adialoguetree.wordpress.com">Writing</a> |
+  <a href="https://bsky.app/profile/andrewvalentine.bsky.social">Social</a> |
+  <a href="https://github.com/andrewvalentine">Code</a> |
+  <a href="https://instagram.com/andrewvalentine">Photos</a> |
+  <a href="https://sayhitofoxes.bandcamp.com/">Music</a> |
+  <a href="mailto:andrew.r.valentine@gmail.com">Mail</a> |
   <a href="http://andrewvalentine.github.io/CV">CV</a>
   <br><br>
 </p>
