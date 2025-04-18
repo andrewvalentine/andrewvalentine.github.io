@@ -9,7 +9,7 @@ This webpage is for links to those things.
 
 <p align="center">
   <b>Stuff</b><br>
-  <a href="www.dialoguetree.cc">Podcast</a> |
+  <a href="https://www.dialoguetree.cc">Podcast</a> |
   <a href="https://www.youtube.com/@andrewdotvalentine">YouTube</a> |
   <a href="https://sayhitofoxes.bandcamp.com/">Bandcamp</a> |
   <a href="https://www.an-awful-lie.cc/">Writing</a> |
