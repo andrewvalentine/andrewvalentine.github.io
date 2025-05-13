@@ -16,12 +16,12 @@ This webpage is for links to those things.
   <a href="https://adialoguetree.wordpress.com">Archive</a>
   <br>
   <br><b>Social</b><br>
-  <a href="https://bsky.app/profile/andrewvalentine.bsky.social">Bluesky</a> |
+  <a href="https://bsky.app/profile/andrewvalentine.bsky.social">Personal</a> |
+  <a href="https://bsky.app/profile/dialoguetree.cc">Podcast</a> |
   <a href="https://instagram.com/andrewvalentine">Instagram</a>
   <br>
   <br><b>Work</b><br>
-  <a href="https://github.com/andrewvalentine">Code</a> |
-  <a href="http://andrewvalentine.github.io/CV">CV</a>
+  <a href="https://github.com/andrewvalentine">Code</a>
   <br>
   <br><b>Contact</b><br>
   <a href="mailto:andrew.r.valentine@gmail.com">email</a>
